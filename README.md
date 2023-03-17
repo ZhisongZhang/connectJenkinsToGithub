@@ -1,6 +1,6 @@
 # 03_05 Challenge Connect Jenkins to GitHub
 
-[![Build Status](https://jenkins.vicpos.com.au/buildStatus/icon?job=connect-jenkins-github)](https://jenkins.vicpos.com.au/job/connect-jenkins-github/)
+[![Build Status](https://jenkins.vicpos.com.au/job/connect-jenkins-github/badge/icon)](https://jenkins.vicpos.com.au/job/connect-jenkins-github/)
 
 updated
 You're on a team developing an algorithm that calculates the value of pi.
